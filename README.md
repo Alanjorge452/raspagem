@@ -5,6 +5,7 @@ Web Scraping / Adoro cinema em > The last of Us
 Com essas excelentes bibliotecas, tenho a disponibilidade de acessar muitas informações, conforme a execução e processo do Objeto em questão.
 
 import requests
+
 from bs4 import BeautifulSoup
 
 cabecalho = {'user-agent': 'Mozilla/5.0'}

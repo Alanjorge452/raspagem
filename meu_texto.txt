@@ -1,0 +1,1 @@
+No site disponibilizado na web, pude fazer uma curta pesquisa sobre as melheres, no caso as mais assistidas do ano de 2023,entre ela está o seriado the last of us,Como podem ver, o codigo esta mostrando informação principais de um cartas, que extrai, usando python com ferramentas incriveis para efetuar o web scraping.
